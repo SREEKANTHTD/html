@@ -1,0 +1,24 @@
+body
+{
+    background-image: -moz-element();
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: aliceblue;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+ul{
+    display:flex;
+}
+.pes,li{
+    display: block;
+    padding:30px ;
+}
+.searchbar{
+    text-align: center;
+    margin-top:20px;
+}
